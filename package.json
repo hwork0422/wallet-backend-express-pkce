@@ -22,7 +22,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^4.12.1",
     "mongoose": "^6.7.5",
-    "web3": "^1.8.1"
+    "web3": "^4.6.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
